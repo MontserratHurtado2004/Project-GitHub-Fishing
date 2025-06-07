@@ -44,8 +44,6 @@ Reportar phishing real a GitHub
 ## Aviso Legal Completo
 Este proyecto cumple con:
 - Artículo 197 del Código Penal (sobre protección de datos)
-- Políticas éticas de {{Tu Institución}}
-/docs/ethical_guidelines.md:
 
 markdown
 ### Protocolo para Demostraciones:
